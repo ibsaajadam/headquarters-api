@@ -1,0 +1,49 @@
+{
+    "headquarters": [
+        {
+            "id": 0,
+            "name": "New Balance",
+            "foundedyear": "1906",
+            "city": "Boston",
+            "state": "Massachusetts",
+            "country": "United States",
+            "briefbio": "Founded in 1906 by William J. Riley, New Balance began in the Boston area selling arch supports and other accessories  to improve shoe fit.",
+            "companyimage": "https://preview.thenewsmarket.com/Previews/NBAS/StillAssets/800x600/400207.JPEG",
+            "founders": "William J. Riley",
+            "address": [
+                {
+                    "addressid": "0",
+                    "number": "100",
+                    "line1": "Guest Street",
+                    "city": "Boston",
+                    "state": "Massachusetts",
+                    "postcode": "02135"
+                }
+            ]
+            
+        },
+        {
+            "id": 1,
+            "name": "Facebook",
+            "foundedyear": "2004",
+            "city": "Menlo Park",
+            "state": "California",
+            "country": "United States",
+            "briefbio": "Facebook was founded in 2004 by Mark Zuckerberg, Eduardo Saverin, Dustin Moskovitz and Chris Hughes, all Harvard University students. Facebook became the largest social network in the world with almost three billion users in 2021, and about half of that number used Facebook every day.",
+            "companyimage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iNq5bD5igqXk/v0/-1x-1.jpg",
+            "founders": ["Mark Zuckerberg", "Eduardo Saverin", "Dustin Moskovitz", "Chris Hughes"],
+            "address": [
+                {
+                    "addressid": "0",
+                    "number": "1",
+                    "line1": "Hacker Way",
+                    "city": "Menlo Park",
+                    "state": "California",
+                    "postcode": "94025"
+                }
+            ]
+            
+        }
+
+    ]
+}
