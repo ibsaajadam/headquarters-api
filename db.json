@@ -11,7 +11,7 @@
             "longitude": "-71.14283108466549",
             "briefbio": "Founded in 1906 by William J. Riley, New Balance began in the Boston area selling arch supports and other accessories  to improve shoe fit.",
             "companyimage": "https://preview.thenewsmarket.com/Previews/NBAS/StillAssets/800x600/400207.JPEG",
-            "founders": "William J. Riley",
+            "founders": ["William J. Riley"],
             "address": [
                 {
                     "addressid": "0",
