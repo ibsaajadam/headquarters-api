@@ -49,6 +49,56 @@
                 }
             ]
             
+        },
+        {
+            "id": 2,
+            "name": "Dunkin' Donuts",
+            "foundedyear": "1950",
+            "city": "Canton",
+            "state": "Massachusetts",
+            "country": "United States",
+            "latitude": "42.2075440257543",
+            "longitude": "-71.13002470213742",
+            "briefbio": "The Dunkin' Donuts story began in 1948 with a coffee and donut restaurant called 'Open Kettle' in Quincy, Massachusetts. Founder William Rosenberg served donuts for five cents and cups of premium coffee for ten cents. In 1950, after a brainstorming session with his executives, Rosenberg changed the name of his restaurant to Dunkin' Donuts. His goal was 'to brew and serve the freshest, most delicious coffee and donuts quickly and courteously in modern, wellmerchandised shops', a philosophy that still applies today.",
+            "careerpage": "https://www.dunkindonuts.com/en/careers",
+            "companyimage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/ibmig/cms/image/wcvb/11743924-11743924.jpg?crop=1xw:0.75000000000000000xh;center,top&resize=1200:*",
+            "founders": ["William Rosenberg "],
+            "address": [
+                {
+                    "addressid": "0",
+                    "number": "130",
+                    "line1": "Royall St",
+                    "city": "Canton",
+                    "state": "Massachusetts",
+                    "postcode": "02021"
+                }
+            ]
+            
+        },
+        {
+            "id": 3,
+            "name": "Adidas",
+            "foundedyear": "1949",
+            "city": "Herzogenaurach",
+            "state": "",
+            "country": "Germany",
+            "latitude": "49.582757978449465",
+            "longitude": "10.909200338634424",
+            "briefbio": "The name Adidas (spelled 'adidas' by the company) is an abbreviation of the name of the founder, Adolf ('Adi') Dassler. The Dassler family started making shoes after the First World War.",
+            "careerpage": "https://careers.adidas-group.com/",
+            "companyimage": "https://www.adidas-group.com/media/filer_public_thumbnails/filer_public/97/03/97033e19-af72-4e90-ad64-e75a2be64584/adidas_arena_building_herzogenaurach_k.jpg__900x675_q85_crop-smart_subject_location-1213%2C828_subsampling-2.jpg",
+            "founders": ["Adolf (Adi) Dassler"],
+            "address": [
+                {
+                    "addressid": "0",
+                    "number": "Adi-Dassler-Strasse 1",
+                    "line1": "",
+                    "city": "Herzogenaurach",
+                    "state": "Germany",
+                    "postcode": "91074"
+                }
+            ]
+            
         }
 
     ]
