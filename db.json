@@ -91,11 +91,36 @@
             "address": [
                 {
                     "addressid": "0",
-                    "number": "Adi-Dassler-Strasse 1",
-                    "line1": "",
+                    "number": "1",
+                    "line1": "Adi-Dassler-Strasse ",
                     "city": "Herzogenaurach",
                     "state": "Germany",
                     "postcode": "91074"
+                }
+            ]
+            
+        },
+        {
+            "id": 4,
+            "name": "Nike",
+            "foundedyear": "1964",
+            "city": "Eugene",
+            "state": "Oregon",
+            "country": "United States",
+            "latitude": "45.50770403301879",
+            "longitude": "-122.82685144490861",
+            "briefbio": "Nike was founded in 1964 as Blue Ribbon Sports by Bill Bowerman, a track and field coach at the University of Oregon, and his former student Phil Knight. They opened their first retail store in 1966 and introduced the Nike brand in 1972. The company was renamed Nike, Inc. in 1978 and went public two years later.",
+            "careerpage": "https://jobs.nike.com/",
+            "companyimage": "https://d16wrc1l4zio1q.cloudfront.net/provenancehotels3.com-780368889/cms/cache/v2/872286f5.jpg/800x500/fit;c:100,0,980,550/80/4e3e6aa62fff1b8ce02c66d0401547be.jpg",
+            "founders": ["Phil Knight, Bill Bowerman"],
+            "address": [
+                {
+                    "addressid": "0",
+                    "number": "One",
+                    "line1": "Bowerman Drive",
+                    "city": "Beaverton",
+                    "state": "Oregon",
+                    "postcode": "97005"
                 }
             ]
             
