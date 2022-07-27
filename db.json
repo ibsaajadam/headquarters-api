@@ -124,6 +124,31 @@
                 }
             ]
             
+        },
+        {
+            "id": 5,
+            "name": "Wayfair",
+            "foundedyear": "2002",
+            "city": "Boston",
+            "state": "Massachusetts",
+            "country": "United States",
+            "latitude": "42.34737024413673",
+            "longitude": "-71.07772676012763",
+            "briefbio": "Niraj and Steve stepped in, looked at what people were looking for, and created goals for those products. They soon launched CSN Stores, a collection of more than 200 websites featuring everything from bar stools to bedroom furniture to birdhouses. In 2011 they brought everything under one roof and created wayfair.com: a single website where people were able to find millions of products for every part of their home.",
+            "careerpage": "https://www.aboutwayfair.com/careers",
+            "companyimage": "https://officesnapshots.com/wp-content/uploads/2017/09/MN07170109LG.jpg",
+            "founders": ["Niraj Shah", "Steve Conine"],
+            "address": [
+                {
+                    "addressid": "0",
+                    "number": "4",
+                    "line1": "Copley Place 7th Floor",
+                    "city": "Boston",
+                    "state": "Massachusetts",
+                    "postcode": "02116"
+                }
+            ]
+            
         }
 
     ]
